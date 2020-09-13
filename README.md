@@ -1,3 +1,3 @@
 # UtilityAIExamples
 
-Developed with Unreal Engine 4
+Examples and samples for [UtilityAI plugin](https://github.com/iskorotkov/UtilityAI).
